@@ -6,7 +6,7 @@
 
 #### Синтаксис
 
-![picture](https://bitbucket.org/oficerovws/task10_4/downloads/D0A1D0BDD0B8D0BCD0BED0BA_D18DD0BAD180D0B0D0BDD0B0_2020-04-08_D0B2_00.34.41.png)
+![picture](https://user-images.githubusercontent.com/56963957/84918926-ec718880-b0c9-11ea-88f2-cf1720a9c41a.png)
 
 \*В случае, если длина идентификатора больше 80 символов, то "хвост" игнорируется.
 
