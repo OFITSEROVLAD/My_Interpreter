@@ -1,0 +1,28 @@
+program {
+	int i, a = +123;
+	string st, s = "avs";
+	boolean f ;
+	read(f);
+	a = a + i;
+	st = st + s;
+	/* 
+	multi 
+	line
+	comment 
+	*/
+
+	a = 49;
+	read(i);
+	while(((50 + 51) > 52) or f and (a > i)) 
+		write(i, a > 53);
+	do 
+	{
+		a = a + 54;
+		i = a;
+	} while (a < 55)
+	
+	if (a > 56) 
+	{
+		break
+	}
+}
